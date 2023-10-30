@@ -10,6 +10,50 @@
       "section3": "Angular v12 includes stylish improvements, nullish coalescing—allowing developers to write cleaner code in TypeScript and Angular templates",
       "sectionHeading": "Performance:",
       "createdAt": "2021-06-22T12:11:00.537Z"
+    },
+    {
+      "id": 1624363860538,
+      "author": "Sarah Thompson",
+      "heading": "The Future of Artificial Intelligence",
+      "subHeading": "Exploring the potential of AI in various industries",
+      "section1": "Artificial Intelligence (AI) has the potential to revolutionize industries such as healthcare, finance, and transportation. This post dives into the current state and future prospects of AI.",
+      "section2": "From autonomous vehicles to personalized medicine, AI is transforming the way we live and work. Discover the latest advancements and ethical considerations in the field of AI.",
+      "section3": "Join the discussion on the impact of AI and its implications for society and the economy.",
+      "sectionHeading": "Impacts of AI:",
+      "createdAt": "2021-07-10T09:30:00.000Z"
+    },
+    {
+      "id": 1624363860539,
+      "author": "Michael Brown",
+      "heading": "Blockchain Technology: Beyond Cryptocurrencies",
+      "subHeading": "Exploring the diverse applications of blockchain",
+      "section1": "Blockchain technology, initially popularized by cryptocurrencies like Bitcoin, has now expanded into various industries. This post delves into the potential applications of blockchain beyond cryptocurrencies.",
+      "section2": "From supply chain management to healthcare records, blockchain offers transparency, security, and efficiency. Learn about real-world use cases and the challenges in implementing blockchain solutions.",
+      "section3": "Join the conversation on how blockchain is reshaping industries and creating new opportunities.",
+      "sectionHeading": "Applications of Blockchain:",
+      "createdAt": "2021-08-15T15:45:00.000Z"
+    },
+    {
+      "id": 1624363860540,
+      "author": "Emily Johnson",
+      "heading": "The Power of 5G Technology",
+      "subHeading": "Unleashing the potential of high-speed connectivity",
+      "section1": "5G technology promises ultra-fast speeds and low latency, revolutionizing industries and enabling new applications. This post explores the capabilities and impact of 5G.",
+      "section2": "From smart cities to autonomous vehicles, 5G opens up a world of possibilities. Discover how this next-generation wireless technology is set to transform communication and connectivity.",
+      "section3": "Join the discussion on the challenges and opportunities presented by the widespread adoption of 5G.",
+      "sectionHeading": "Advancements in 5G:",
+      "createdAt": "2021-09-01T11:20:00.000Z"
+    },
+    {
+      "id": 1624363860541,
+      "author": "John Smith",
+      "heading": "The Internet of Things (IoT): Connecting the World",
+      "subHeading": "Exploring the transformative potential of IoT",
+      "section1": "The Internet of Things (IoT) is a network of connected devices that communicate and share data. This post examines how IoT is reshaping industries and our daily lives.",
+      "section2": "From smart homes to industrial automation, IoT has the power to improve efficiency, enhance decision-making, and create new business models. Learn about real-world IoT applications and the challenges they bring.",
+      "section3": "Join the conversation on the implications of a hyper-connected world driven by IoT.",
+      "sectionHeading": "Applications of IoT:",
+      "createdAt": "2021-10-05T16:55:00.000Z"
     }
   ],
   "comments": [
